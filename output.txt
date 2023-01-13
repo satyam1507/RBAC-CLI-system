@@ -1,0 +1,12 @@
+Enter command: Creates a resource called IMAGE
+Enter command: Creates universal access READ
+Enter command: Creates universal access WRITE
+Enter command: Creates READ access on resource IMAGE
+Enter command: Creates WRITE access on resource IMAGE
+Enter command: Creates a role called ADMIN
+Enter command: Creates READ access on resource IMAGE for role ADMIN
+Enter command: Creates a user called ADMINUSER
+Enter command: Role ADMIN added to user ADMINUSER
+Enter command: Yes, user has READ access on resource IMAGE
+Enter command: No, user does not have WRITE access on resource IMAGE
+Enter command: Program Stopped

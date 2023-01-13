@@ -1,0 +1,12 @@
+addResource IMAGE
+addAccess READ
+addAccess WRITE
+addAccessOnResource READ IMAGE
+addAccessOnResource WRITE IMAGE
+addRole ADMIN
+addAccessOnResourceToRole READ IMAGE ADMIN
+addUser ADMINUSER
+addRoleToUser ADMIN ADMINUSER
+checkAccess ADMINUSER IMAGE READ
+checkAccess ADMINUSER IMAGE WRITE
+Exit
